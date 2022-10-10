@@ -8,4 +8,4 @@ Hobbies:
 Coding
 music
 Web Design |
-I am Driven with the passion to solve real world problems with my code.\
+I am Driven with the passion to solve real world problems with my code.|
